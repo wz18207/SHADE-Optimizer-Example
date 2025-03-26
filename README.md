@@ -17,7 +17,6 @@ Distributed under the [MIT License](http://www.opensource.org/licenses/mit-licen
 # Contact
 
 * Zhaoyang Wang
-  - https://github.com/wz18207
 
   - wz18207@stumail.nwu.edu.cn
 
