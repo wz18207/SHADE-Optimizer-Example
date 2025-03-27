@@ -34,7 +34,7 @@ Distributed under the [MIT License](http://www.opensource.org/licenses/mit-licen
 
   https://github.com/NaturalSoftwareJP/NaturalSoftware.Kinect.Cpp
 
-* LevenbergMarquardt Algorithm
+* Levenberg-Marquardt Algorithm
 
   https://github.com/svenpilz/LevenbergMarquardt/blob/master/LevenbergMarquardt.h
 
